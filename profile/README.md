@@ -118,4 +118,4 @@ Manage a specific user (briefly):
 - Alert Pop-Up - send notifications to user/all users screen (if not online - will show on next login)
 - Withdraw verify: include whether verification has been passed, specify dollar amount to be verified, specify specific coins
 - KYC Request: kyc (data, addresses, photos of documents) sent by the user for KYC verification.
-- KYC can be accepted or rejected
+- KYC can be accepted or rejected.
