@@ -119,3 +119,5 @@ Manage a specific user (briefly):
 - Withdraw verify: include whether verification has been passed, specify dollar amount to be verified, specify specific coins
 - KYC Request: kyc (data, addresses, photos of documents) sent by the user for KYC verification.
 - KYC can be accepted or rejected.
+
+google-site-verification: googlef9d364e7f20a37ef.html
