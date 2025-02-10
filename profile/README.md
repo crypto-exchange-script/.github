@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="8IMe2M2owVRCZ1BGUZfXnC3eLyhSGnxZJQbCvPim5Xs" />
+
 # Crypto Exchange Script
 
 ![Neon Retro Stars Marketing Mockup Website Instagram Post (4)-Photoroom (1)](https://github.com/user-attachments/assets/18796fe4-38a2-442d-895b-1a5b0d640fdb)
