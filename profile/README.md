@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="8IMe2M2owVRCZ1BGUZfXnC3eLyhSGnxZJQbCvPim5Xs" />
-
 # Crypto Exchange Script
 
 ![Neon Retro Stars Marketing Mockup Website Instagram Post (4)-Photoroom (1)](https://github.com/user-attachments/assets/18796fe4-38a2-442d-895b-1a5b0d640fdb)
@@ -122,4 +120,3 @@ Manage a specific user (briefly):
 - KYC Request: kyc (data, addresses, photos of documents) sent by the user for KYC verification.
 - KYC can be accepted or rejected.
 
-google-site-verification: googlef9d364e7f20a37ef.html
